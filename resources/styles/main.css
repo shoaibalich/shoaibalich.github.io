@@ -1,0 +1,13 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif !important;
+    min-height: 100%;
+    background-color: #303030;
+}
+
+.content {
+	background-color: #FBFBFB;
+}
+
+.logo {
+	margin: 2em !important;
+}
