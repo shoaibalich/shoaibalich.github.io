@@ -1,13 +1,47 @@
 body {
     font-family: 'Source Sans Pro', sans-serif !important;
     min-height: 100%;
-    background-color: #303030;
+    background-color: #FCFCFC;
 }
 
-.content {
-	background-color: #FBFBFB;
+.page {
+	background-color: #FCFCFC;
+}
+
+.logotitle {
+	display: flex;
+	padding: 1em;
+}
+
+.title-holder > h1 {
+	margin-left: 0.5em;
+	margin-top: 0.4em;
+	font-size: 1.4em;
+	font-weight: 600;
+}
+
+.title-holder {
+	display: flex;
+	margin: auto;
 }
 
 .logo {
-	margin: 2em !important;
+	height: 4em;
+	width: 4em;
+}
+
+.headerbox h1 {
+	margin-top: 0.5em;
+	text-align: center;
+	font-size: 3em;
+}
+
+.headerbox h2 {
+	margin-top: 0.5em;
+	text-align: center;
+	font-size: 1.6em;
+}
+
+.ctabox {
+	margin: 2em 0em;
 }
