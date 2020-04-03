@@ -1,11 +1,11 @@
 body {
     font-family: 'Source Sans Pro', sans-serif !important;
     min-height: 100%;
-    background-color: #FCFCFC;
+    background-color: #FFFFFF;
 }
 
 .page {
-	background-color: #FCFCFC;
+	background-color: #FFFFFF;
 }
 
 .logotitle {
@@ -44,4 +44,9 @@ body {
 
 .ctabox {
 	margin: 2em 0em;
+}
+
+.heroimgbox > figure {
+	margin: auto;
+	margin-top: 3em;
 }
