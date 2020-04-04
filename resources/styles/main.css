@@ -56,9 +56,19 @@ body {
 	margin: 2em 0em;
 }
 
+.emailinput {
+	margin: auto;
+	display: flex;
+}
+
 .heroimgbox > figure {
 	margin: auto;
 	margin-top: 3em;
+}
+
+.heroimg {
+	margin: auto;
+	width: 80%;
 }
 
 .featurebox {
@@ -68,6 +78,7 @@ body {
 
 .featurelogo > figure {
 	margin: 2em auto;
+	margin-top: 4em;
 }
 
 .finalcta {
@@ -83,3 +94,52 @@ body {
 .lastline > h3 {
 	font-size: 1.8em !important;
 }
+
+.email-cta-bottom {
+	margin-top: 2em;
+}
+
+.grey-bg {
+	background-color: #ced6e0;
+}
+
+.pink-bg {
+	background-color: #fda7df;
+}
+
+.orange-bg {
+	background-color: #ffb142;
+}
+
+.purple-bg {
+	background-color: #a55eea;
+	color: #FFFFFF;
+}
+
+.black-bg {
+	background-color: #1e272e;
+	color: #FFFFFF;
+}
+
+.blue-bg {
+	background-color: #3867d6;
+	color: #FFFFFF;
+}
+
+.green-bg {
+	background-color: #32ff7e;
+}
+
+.red-bg {
+	background-color: #ff4d4d;
+	color: #FFFFFF;
+}
+
+a.red-bg:hover {
+	color: #FBFBFB;
+}
+
+.yellow-bg {
+	background-color: #ffd32a;
+}
+
