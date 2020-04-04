@@ -28,6 +28,12 @@ body {
 .logo {
 	height: 4em;
 	width: 4em;
+	background-color: #fed330;
+}
+
+.site-name {
+	font-size: 1.5em;
+	padding: 0.5em 1em;
 }
 
 .headerbox h1 {
@@ -48,5 +54,24 @@ body {
 
 .heroimgbox > figure {
 	margin: auto;
+	margin-top: 3em;
+}
+
+.featurebox {
+	margin-top: 1em;
+	text-align: center;
+}
+
+.featurelogo > figure {
+	margin: 2em auto;
+}
+
+.finalcta {
+	margin-top: 6em;
+	margin-bottom: 4em;
+	text-align: center;
+}
+
+.finalctabtn {
 	margin-top: 3em;
 }
