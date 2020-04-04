@@ -32,8 +32,12 @@ body {
 }
 
 .site-name {
+	padding: 0.8em 1em;
+}
+
+.site-name h3 {
 	font-size: 1.5em;
-	padding: 0.5em 1em;
+	font-weight: 600;
 }
 
 .headerbox h1 {
@@ -74,4 +78,8 @@ body {
 
 .finalctabtn {
 	margin-top: 3em;
+}
+
+.lastline > h3 {
+	font-size: 1.8em !important;
 }
